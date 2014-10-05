@@ -27,10 +27,10 @@ removeWhitespace('foo\n bar\n');
 
 [npm-image]: https://img.shields.io/npm/v/whitespace-remove.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/whitespace-remove
-[travis-image]: https://img.shields.io/travis/undefined/whitespace-remove.svg?style=flat-square
-[travis-url]: https://travis-ci.org/undefined/whitespace-remove
-[coveralls-image]: https://img.shields.io/coveralls/undefined/whitespace-remove.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/undefined/whitespace-remove?branch=master
+[travis-image]: https://img.shields.io/travis/yoshuawuyts/whitespace-remove.svg?style=flat-square
+[travis-url]: https://travis-ci.org/yoshuawuyts/whitespace-remove
+[coveralls-image]: https://img.shields.io/coveralls/yoshuawuyts/whitespace-remove.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/yoshuawuyts/whitespace-remove?branch=master
 [downloads-image]: http://img.shields.io/npm/dm/whitespace-remove.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/whitespace-remove
 
