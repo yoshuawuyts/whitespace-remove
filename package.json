@@ -1,0 +1,31 @@
+{
+  "name": "whitespace-remove",
+  "version": "1.0.0",
+  "description": "Strip all whitespace from a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "undefined/whitespace-remove",
+  "keywords": [
+    "strip",
+    "remove",
+    "whitespace",
+    "space",
+    "string"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "istanbul": "^0.3.2",
+    "make-lint": "^1.0.1",
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  },
+  "files": [
+    "lib",
+    "LICENSE",
+    "index.js",
+    "HISTORY.md"
+  ]
+}
