@@ -6,7 +6,7 @@
   "scripts": {
     "test": "make test"
   },
-  "repository": "undefined/whitespace-remove",
+  "repository": "yoshuawuyts/whitespace-remove",
   "keywords": [
     "strip",
     "remove",
