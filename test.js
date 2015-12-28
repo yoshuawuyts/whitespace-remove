@@ -10,7 +10,7 @@ var remove = require('./index');
  * Test
  */
 
-describe('newline-remove', function() {
+describe('whitespace-remove', function() {
   it('should assert argument types', function() {
     remove.bind(remove, 123)
       .should.throw('whitespace-remove: val should be a string');
